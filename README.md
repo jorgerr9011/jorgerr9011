@@ -1,7 +1,7 @@
 ## **⭐ About me**
 
-¡Mi nombre es Jorge! He estudiado Ingenigería Informática en la Universidad de la Coruña 👨‍🎓. A pesar 
-de los largos años formandome en diversas herramientas y tecnologías 💻 durante mi etapa universitaria,
+¡Mi nombre es Jorge! He estudiado Ingeniería Informática en la Universidad de la Coruña 👨‍🎓. A pesar 
+de los largos años formándome en diversas herramientas y tecnologías 💻 durante mi etapa universitaria,
 sigo disfrutando de la programación como desde el primer día.
 
 Durante mi estancia en la Universidad, aproveché para realizar labores de Mentoring, para guiar y
