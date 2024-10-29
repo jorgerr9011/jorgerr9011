@@ -1,4 +1,4 @@
-## **⭐🚀 About me**
+## **🚀⭐ About me**
 
 ¡Mi nombre es Jorge! He estudiado Ingeniería Informática en la Universidad de la Coruña 👨‍🎓. A pesar 
 de los largos años formándome en diversas herramientas y tecnologías 💻 durante mi etapa universitaria,
